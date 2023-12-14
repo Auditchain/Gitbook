@@ -4,6 +4,20 @@ description: >-
   external validation.
 cover: ../.gitbook/assets/Pacioli Nodes.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Pacioli Logic and Rules Engine
