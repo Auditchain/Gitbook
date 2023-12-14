@@ -1,35 +1,31 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Auditchain Protocol
 
+* [Introduction](README.md)
 * [Auditchain V1 Whitepaper](https://auditchain.finance/whitepaper-v1.pdf)
-* [External Validation Core Contracts](auditchain-protocol/auditchain-core-v1/README.md)
-  * [Financial State Validation](auditchain-protocol/auditchain-core-v1/for-reporting-entities.md)
-  * [Process Control NFTs](auditchain-protocol/auditchain-core-v1/process-control-nft.md)
-* [Knowledge Base](auditchain-protocol/knowledge-base.md)
-* [Pacioli Logic and Rules Engine](auditchain-protocol/pacioli-logic-and-rules-engine.md)
-* [SEC EDGAR Knowledge Graphs](auditchain-protocol/sec-edgar-knowledge-graphs.md)
+* [External Validation Core Contracts](auditchain-protocol/auditchain-core-v1.md)
+* [Financial State Validation](auditchain-protocol/for-reporting-entities.md)
+* [Process Control NFTs](auditchain-protocol/process-control-nft.md)
 * [AUDT Token](auditchain-protocol/audt-token.md)
 * [Governance](auditchain-protocol/governance.md)
+* [Vesting Contracts](auditchain-protocol/cliff-timeline.md)
+* [Staking](auditchain-protocol/staking-rewards.md)
 
-## Staking Rewards <a href="#staking-rewards-1" id="staking-rewards-1"></a>
+## Luca Suite
 
-* [Staking](staking-rewards-1/staking-rewards.md)
+* [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
+* [SEC EDGAR Knowledge Graphs](luca-suite/sec-edgar-knowledge-graphs.md)
 
-## Vesting Contracts
+## Pacioli&#x20;
 
-* [Vesting Contracts](vesting-contracts/cliff-timeline.md)
-
-***
-
-* [Acknowledgements](acknowledgements.md)
+* [Pacioli Logic and Rules Engine](pacioli/pacioli-logic-and-rules-engine.md)
 
 ## Security Audit
 
 * [Security Audits](security-audit/security-audits.md)
 
-## Luca Suite
+## Knowledge
 
-* [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
+* [Knowledge Base](knowledge/knowledge-base.md)
+* [Acknowledgements](knowledge/acknowledgements.md)
