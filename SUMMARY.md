@@ -16,7 +16,6 @@
 
 * [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
 * [User Guide](luca-suite/description-of-report-element-categories.md)
-* [References](luca-suite/references.md)
 
 ## Pacioli&#x20;
 
@@ -29,4 +28,5 @@
 ## Knowledge
 
 * [Knowledge Base](auditchain-protocol/knowledge-base.md)
+* [References](knowledge/references.md)
 * [Acknowledgements](acknowledgements.md)
