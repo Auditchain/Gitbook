@@ -15,6 +15,7 @@
 ## Luca Suite
 
 * [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
+* [Description of Report Element Categories](luca-suite/description-of-report-element-categories.md)
 * [SEC EDGAR Knowledge Graphs](auditchain-protocol/sec-edgar-knowledge-graphs.md)
 
 ## Pacioli&#x20;
