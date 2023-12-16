@@ -1,7 +1,8 @@
 ---
 description: >-
-  The report element categories described below relate to the legend on the
-  bottom right corner of the Auditchain Luca Suite application.
+  This user guide and the report element categories described below relate to
+  the legend on the bottom right corner of the Auditchain Luca Suite
+  application.
 ---
 
 # User Guide
@@ -10,19 +11,25 @@ description: >-
 
 Accounting systems are great for recording and containing accounting information but they all have shortcomings when it comes to creating accurate, consistent and compliant structured financial disclosure. Just ask the CFO or controller of any economic entity.&#x20;
 
-Extracting information from financial statements is even more challenging due to inconsistent information and terminology inherent in traditional methods. Just ask any CFA at any large investment manager.   &#x20;
+Extracting information from financial statements is even more challenging due to inconsistent information and terminology inherent in traditional methods. Just ask any CFA at any investment manager.   &#x20;
 
-There are a variety of financial report element categories that play a critical role in connecting and relating all of the logic that constrains all of the information contained in a digital financial report created in the Luca Suite.&#x20;
+There are a variety of financial report element categories that play a critical role in relating and constraining all of the logic and data contained in a digital financial report created in the Luca Suite.&#x20;
 
-These elements are what you will use to create your financial reporting "model". You can also think of these elements as knowledge assemblies or process controls.&#x20;
+These elements are the tools that you will use to create your financial reporting "model". You can also think of these elements as knowledge assemblies or [process controls](https://docs.auditchain.finance/auditchain-protocol/process-control-nft).&#x20;
 
-Once you complete the creation of your financial reporting model in the Luca Suite, you will be able to "stream" a complete set of accurate, consistent and compliant digital financial statements no matter what financial reporting scheme you comply with or which regulators you file with.  &#x20;
+Once you assemble your financial reporting model using the tools in the Luca Suite, you will be able to "stream" accurate, consistent and compliant digital financial statements no matter what financial reporting scheme you comply with or which regulators, if any you file with.  &#x20;
 
-It is our goal that _**anyone**_ who gains an understanding of these elements and their functionality will be able to create an accurate, consistent and compliant instance of structured digital financial statements no matter what your background is.
+It is our goal that _**anyone**_ who gains an understanding of the utility of each of these tools and their functionality will be able to automate the creation of accurate, consistent and compliant structured digital financial statements no matter what your background is.
 
-Luca is the expert so you don't have to be!&#x20;
+Please don't feel intimidated. Luca is the expert so you don't have to be!&#x20;
 
 ## Structure&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Structure Icon.png" alt="Structure Icon" width="30"><figcaption><p>Structure Icon</p></figcaption></figure>
+
+</div>
 
 A structure is a technical artifact used to separate associations into distinct structures within a digital financial report, aiding in organization and clarity.&#x20;
 
@@ -31,6 +38,12 @@ An example of a single structure would be a balance sheet. In our world, a balan
 WATCH DEMO VIDEO
 
 ## **Hypercube**
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Hypercube Icon.png" alt="" width="30"><figcaption><p>Hypercube Icon</p></figcaption></figure>
+
+</div>
 
 A hypercube is an abstract scheme representing related information with multiple dimensions, enabling structured representation of complex financial data for better analysis and reporting.&#x20;
 
@@ -84,6 +97,12 @@ WATCH DEMO VIDEO
 
 ## **Block**&#x20;
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Block Icon.png" alt="" width="30"><figcaption><p>Block Icon</p></figcaption></figure>
+
+</div>
+
 A block is a logical artifact with identifiable patterns within a digital financial report, representing structured data. Blocks are associated with disclosures and organized within structures and hypercubes.
 
 Blocks represent specific elements within a financial report, such as individual line items on a balance sheet or income statement, enabling concise categorization and analysis. Also great for the CFAs.
@@ -91,6 +110,12 @@ Blocks represent specific elements within a financial report, such as individual
 WATCH DEMO VIDEO
 
 ## **Fragment**
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Fragment Icon.png" alt="" width="30"><figcaption><p>Fragment Icon</p></figcaption></figure>
+
+</div>
 
 A fragment is a part or section of a financial report represented within a structure or hypercube, providing specific details or breakdowns of information for analysis and disclosure.
 
@@ -108,6 +133,12 @@ WATCH DEMO VIDEO
 
 ## **Disclosure**
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Disclosure Icon.png" alt="" width="30"><figcaption><p>Disclosure Icon</p></figcaption></figure>
+
+</div>
+
 A disclosure is a structured representation of financial information within a hypercube or other structure, providing details about specific aspects such as comprehensive income, balance sheet, or changes in equity.
 
 A disclosure represents a specific section of a financial report, like the comprehensive income statement, providing a structured view of a company's financial performance.
@@ -115,6 +146,12 @@ A disclosure represents a specific section of a financial report, like the compr
 WATCH DEMO VIDEO
 
 ## **Combined Disclosure**
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Combined DIsclosure Icon.png" alt="" width="30"><figcaption><p>Combined Disclosure</p></figcaption></figure>
+
+</div>
 
 A combined disclosure is an integrated representation using both unique hypercubes and disclosure specifications, offering a comprehensive and structured view of financial data to support analysis and reporting.
 
