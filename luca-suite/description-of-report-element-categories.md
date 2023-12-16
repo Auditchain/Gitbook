@@ -53,6 +53,12 @@ WATCH DEMO VIDEO
 
 ## Dimension
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Dimension Icon.svg" alt="" width="36"><figcaption><p>Dimension Icon</p></figcaption></figure>
+
+</div>
+
 A dimension is a defining characteristic or aspect of financial data that provides additional context or categorization. It adds depth to the structure by introducing various perspectives through which reported facts can be analyzed.
 
 Consider a financial report where revenue is reported. By adding a "Geographic Area" dimension, the revenue data gains context. This dimension might include values like "North America," "Europe," and "Asia," offering a breakdown of revenue based on geographical regions. Analyzing revenue with this dimension allows for better insights into global performance.
@@ -60,6 +66,12 @@ Consider a financial report where revenue is reported. By adding a "Geographic A
 WATCH DEMO VIDEO
 
 ## Member
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Member Icon.svg" alt="" width="32"><figcaption><p>Member Icon</p></figcaption></figure>
+
+</div>
 
 A member is a specific value or instance within a dimension. It provides granularity to the dimension by representing individual categories or options.
 
@@ -69,6 +81,12 @@ WATCH DEMO VIDEO
 
 ## **Line Item**
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Line Item Icon.svg" alt="" width="36"><figcaption><p>Line Item Icon</p></figcaption></figure>
+
+</div>
+
 In financial reporting, a line item represents a specific entry or element within a financial statement, such as revenue, expenses, or assets. It serves as a fundamental building block for presenting financial data in a structured manner.
 
 Consider an income statement where "Net Income" is a line item. This line item consolidates various revenue and expense components, providing a comprehensive view of the company's profitability. Analyzing "Net Income" across reporting periods allows stakeholders to assess the overall financial performance of the business.
@@ -77,17 +95,37 @@ WATCH DEMO VIDEO
 
 ## **Abstract**
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Abstract Icon.svg" alt="" width="43"><figcaption><p>Abstract Icon</p></figcaption></figure>
+
+</div>
+
 An abstract element is a concept that serves as a placeholder or grouping mechanism without representing an actual reported value. It helps organize and structure information within a taxonomy.
 
 Consider an XBRL taxonomy that includes an abstract element called "Operating Expenses." This abstract element groups various specific expense items like salaries, utilities, and rent. While "Operating Expenses" itself doesn't have a reported value, it organizes related concepts, aiding in a standardized and logical representation of financial data across reports.
 
 WATCH DEMO VIDEO
 
-## **Concept**
+## **Numeric Concept**
 
-A concept represents a unique idea or accounting item within a financial reporting scheme taxonomy. It serves as a standardized definition for a specific financial element.
+<div align="left">
 
-In a financial report, the "Cash" concept represents the amount of cash held by a company. By consistently using the "Cash" concept across various reports, stakeholders can easily understand and compare the cash position of different entities. This standardization enhances transparency and facilitates accurate financial analysis. Ask a CFA how they feel about extracting data from financial statements created using existing standard specifications. &#x20;
+<figure><img src="../.gitbook/assets/Numeric Concept Icon.svg" alt="" width="37"><figcaption><p>Numeric Concept Icon</p></figcaption></figure>
+
+</div>
+
+A numeric concept represents a unique idea or accounting item within a financial reporting scheme taxonomy. It serves as a standardized definition for a specific financial element.
+
+In a financial report, the "Cash" concept represents the amount of cash held by a company. By consistently using the "Cash" concept across various reports, stakeholders can easily understand and compare the cash position of different entities. This standardization enhances transparency and facilitates accurate financial analysis. Ask a CFA how they feel about extracting data from financial statements created using existing standard specifications.&#x20;
+
+## Non Numeric Concept&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Non Numeric Concept Icon.svg" alt="" width="37"><figcaption><p>Non Numeric Concept Icon</p></figcaption></figure>
+
+</div>
 
 A non-numeric concept represents information that is not expressed as a numerical value. It is used to capture and communicate non-quantitative data or textual information.
 
@@ -125,6 +163,12 @@ WATCH DEMO VIDEO
 
 ## **Text Block**
 
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Text Block.svg" alt="" width="37"><figcaption><p>Text Block Icon</p></figcaption></figure>
+
+</div>
+
 A text block is a structured component containing textual information in a financial report, providing context and explanations for reported facts.
 
 Within a financial statement, a text block contains required items such as the notes to the financial statements, explanations or descriptions of accounting policies, new accounting pronouncements from accounting standard setters and parentheticals giving context to reported facts for better understanding.
@@ -160,6 +204,12 @@ Combining various disclosures into a single comprehensive report, such as integr
 WATCH DEMO VIDEO
 
 ## **Unrecognized Disclosure**
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Unrecognized Disclosure.svg" alt="" width="54"><figcaption><p>Unrecognized Disclosure Icon</p></figcaption></figure>
+
+</div>
 
 A structure that lacks clear identification or specification, making it challenging to refer to or integrate into standardized reporting practices, possibly leading to ambiguity, inefficiencies and worst of all, inconsistencies.
 
