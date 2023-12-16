@@ -4,7 +4,7 @@ description: >-
   bottom right corner of the Auditchain Luca Suite application.
 ---
 
-# Description of Report Element Categories
+# User Guide
 
 ## Overview
 
@@ -24,7 +24,7 @@ Luca is the expert so you don't have to be!&#x20;
 
 ## Structure&#x20;
 
-A structure is a technical artifact used to separate associations into distinct structures within a digital financial report, aiding in organization and clarity. Structures may or may not be associated with hypercubes.&#x20;
+A structure is a technical artifact used to separate associations into distinct structures within a digital financial report, aiding in organization and clarity.&#x20;
 
 An example of a single structure would be a balance sheet. In our world, a balance sheet is a multidimensional machine-readable knowledge graph for communicating and extracting accounting information. Imagine the possibilities!  &#x20;
 
