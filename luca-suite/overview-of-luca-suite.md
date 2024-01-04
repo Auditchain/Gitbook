@@ -1,5 +1,5 @@
 ---
-description: Financial and Operational Disclosure Infrastructure
+description: Financial and Operational Disclosure Automation Infrastructure
 ---
 
 # Overview of Luca Suite
