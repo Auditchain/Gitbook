@@ -15,6 +15,7 @@
 ## Luca Suite
 
 * [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
+* [Getting Started](luca-suite/getting-started.md)
 * [User Guide](luca-suite/description-of-report-element-categories.md)
 
 ## Pacioli&#x20;

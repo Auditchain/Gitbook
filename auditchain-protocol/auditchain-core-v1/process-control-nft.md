@@ -32,7 +32,7 @@ Process Control NFTs represent the dawn of ERP, accounting and reporting infrast
 
 Anyone can create a Process Control NFT so long as they have knowledge of these processes. Process Control NFTs are externally validated on the Auditchain Protocol. Every time they are used, the creator and the validators who validated them get paid a royalty. Neat, huh?
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Click to Enlarge Image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Click to Enlarge Image</p></figcaption></figure>
 
 &#x20;&#x20;
 
@@ -78,7 +78,7 @@ The newly created control is then submitted to the [cohort of external validator
 
 When consensus of the cohort is reached that the control meets the conditions of the specified objectives, a validation is outputted and recorded by the EVC. The EVC triggers the settlement in AUDT and also enables the creator to claim the Process Control NFT.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Click to Enlarge Image</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click to Enlarge Image</p></figcaption></figure>
 
 ### Attributes of Process Control NFTs
 

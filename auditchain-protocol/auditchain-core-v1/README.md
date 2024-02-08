@@ -30,7 +30,7 @@ Since a financial statement is a series of multi dimensional knowledge graphs an
 
 External validators running instances of Pacioli will validate each state transition and output a validated instance of the state transition which also contains a Merkle root of the validation. In addition, each attestation made by each of the external validators is recorded in the EVC contract. When consensus among the external validators is reached, the validation is also recorded in the EVC contract. All attestations as well as the validation of the state transition can be viewed in the validation history as well as TXIDs on the Polygon or Ethereum Network through each of their respective block explorers. &#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Ok, the accountants are thinking; what are they talking about? What is a state transition?&#x20;
 

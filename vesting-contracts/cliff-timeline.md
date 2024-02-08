@@ -45,7 +45,7 @@ There are three vesting cliffs:
 2. IDO - Cliff begins March 7, 2022
 3. Team and Advisers - Cliff begins June 3, 2022
 
-![Vesting Cliffs Timeline](<../.gitbook/assets/image (3).png>)
+![Vesting Cliffs Timeline](<../.gitbook/assets/image (3) (1).png>)
 
 ### Early Adopters
 
