@@ -9,9 +9,9 @@ description: >-
 
 
 
-### STEP 1 - Go to https://dev.auditchain.finance/&#x20;
+### STEP 1 - Go to the private beta site
 
-
+[https://dev.auditchain.finance/ ](https://dev.auditchain.finance/)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
