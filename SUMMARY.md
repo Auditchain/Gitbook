@@ -9,8 +9,8 @@
 * [Process Control NFTs](auditchain-protocol/auditchain-core-v1/process-control-nft.md)
 * [AUDT Token](auditchain-protocol/audt-token.md)
 * [Governance](auditchain-protocol/governance.md)
-* [Vesting Contracts](vesting-contracts/cliff-timeline.md)
 * [Staking](staking-rewards-1/staking-rewards.md)
+* [Vesting Contracts](vesting-contracts/cliff-timeline.md)
 
 ## Luca Suite
 
