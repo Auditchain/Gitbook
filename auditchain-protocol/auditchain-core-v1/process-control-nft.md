@@ -84,7 +84,7 @@ When consensus of the cohort is reached that the control meets the conditions of
 
 The NFT represents ownership of the control and points to an immutable URI on IPFS. The payload of the file linked by the URI contains the control and all other relative URIs as well as metadata that states; the creator's name and Ethereum address, name of each of the external validators and their Ethereum address, the EVC cohort address and the Merkle root which is the basis of the Proof of Assurance, "PoA". &#x20;
 
-The magic of this process and the use of the NFT format allows creators and validators to get paid each time the control is used on the Auditchain Protocol. This incentivizes the creation of more controls which enables global disclosure frameworks to move from periodic sprints to a continuous audit and near real time financial reporting framework that is suitable for open ledger based blockchain and DeFi systems and decentralized autonomous organizations.
+The magic of this process and the use of the NFT format allows creators and validators to get paid each time the control is used on the Auditchain Protocol. This incentivizes the creation of more controls which enables global disclosure frameworks to move from periodic, backward looking sprints to a continuous audit and near real time financial reporting framework that is suitable for open ledger based blockchain, DeFi systems and decentralized autonomous organizations.
 
 ### Knowledge Graphs
 
