@@ -18,7 +18,7 @@ The community decides through [governance](https://docs.auditchain.finance/audit
 
 The genesis of the [AUDT Token contract ](https://etherscan.io/address/0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e#code)began with ZERO mint. As events occur, triggered by additional contracts, additional AUDT is minted. See [Vesting Contracts](https://docs.auditchain.finance/vesting-contracts/cliff-timeline).
 
-The maximum supply of AUDT minted will be decided by the community. In all cases, minting occurs when claims from sales and claims for rewards are made by actors on the Auditchain Protocol.&#x20;
+The maximum supply of AUDT minted will ultimately be decided by the community. In all cases, minting occurs when claims from sales and claims for rewards are made by actors on the Auditchain Protocol.&#x20;
 
 On November 29, 2021 at 10:44PM UTC, we deployed a [child AUDT Token](https://polygonscan.com/token/0x91c5a5488c0decde1eacd8a4f10e0942fb925067) contract to Polygon. The parent AUDT Token contract on the Ethereum mainnet is mapped to the child contract on Polygon.&#x20;
 
@@ -28,7 +28,7 @@ The AUDT Token contract address on Polygon is: [0x91c5A5488c0dEcde1Eacd8a4F10e09
 
 ### AUDT Token Functionality
 
-**Staking** - A minimum of 5,000 AUDT is needed to "**operate"** a [Pacioli Node](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine). This amount is subject to governance. Anyone who holds a balance of AUDT can **"delegate"** their AUDT and "back" a Pacioli Node operator and earn passive income.
+**Staking** - A minimum amount of AUDT is needed to "**operate"** a [Pacioli Node](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine). This amount is subject to governance. Anyone who holds a balance of AUDT can **"delegate"** their AUDT and "back" a Pacioli Node operator and earn passive income.
 
 **Settlement** **- Who Pays?**
 
@@ -40,14 +40,18 @@ The AUDT Token contract address on Polygon is: [0x91c5A5488c0dEcde1Eacd8a4F10e09
 * Validators
 * Process Control NFT Creators
 
-All obligations on the Auditchain Protocol are settled in AUDT. Users such as enterprises pay for access to the Luca Suite for taxonomy, report model and financial state reporting. Passing financial state to external validators running Pacioli for state validation requires settlement. Validators receive AUDT as payment for fulfilling validation requests. Royalties are paid in AUDT to creators of [Process Control NFTs](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1/process-control-nft) and are also paid to the validators who prove that the Process Control NFTs work correctly. Subject to governance, subscription payments by data subscribers who access premium levels of financial state are allocated between reporting entities, validators and the developers of the Auditchain Protocol.&#x20;
+AUDT is a settlement layer for all obligations on the Auditchain Protocol. Users may designate settlement in other forms of crypto payments. Users pay for access to the Luca Suite for Process Control creation, taxonomy, report model and financial disclosure development.&#x20;
+
+Passing financial and operational state instances to external validators running Pacioli for validation requires settlement. Validators receive payment for fulfilling validation requests. Royalties are paid in AUDT to creators of [Process Control NFTs](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1/process-control-nft) and are also paid to the validators who prove that the Process Control NFTs work correctly.&#x20;
+
+Subject to governance, subscription payments by data subscribers who access premium levels of financial state are allocated between reporting entities, validators and the developers of the Auditchain Protocol.&#x20;
 
 **Governance** - Monetary policy is set by the community of AUDT holders through adjustments to the amounts paid for each validation performed by validators. Changes in functionality are immediately invoked upon the passage of a vote on the following functions:
 
-* Changes to the amount of rewards paid to validators through inflation&#x20;
-* Changes to the amount of rewards matched by the reporting entity&#x20;
-* Changes to the allocation of proceeds from data subscriptions between members of a cohort&#x20;
-* Changes to the minimum balance required for continued compliance by a reporting entity (fair          warning)
+* Changes to the amount of rewards paid to validators through protocol subsidies&#x20;
+* Changes to the amount paid by the reporting entity&#x20;
+* Changes to the allocation of proceeds from data subscriptions between reporting entities and the cohort of validators&#x20;
+* Changes to the minimum staked balance required for continued compliance by a reporting entity (fair warning)
 * Changes to the minimum number of validators in a cohort
 * Changes to the minimum percentage of validators in a cohort required to achieve consensus
 
@@ -59,7 +63,9 @@ Contracts have been deployed that allow users who are entitled to AUDT to make c
 
 
 
-The [EVC](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1) calls the minting function of the AUDT Token contract. The EVC is the factory contract that outputs engagement contracts between each enterprise and its cohort of validators. The EVC is capable of six separate categories of assurance. At launch, each cohort for each category of assurance will require a minimum of 3 validators. This can be changed through [on-chain governance](https://docs.auditchain.finance/auditchain-protocol/governance).
+The [EVC](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1) calls the minting function of the AUDT Token contract. The EVC is the factory contract that outputs engagement contracts between each enterprise and its cohort of validators. The EVC is capable of six separate categories of assurance.&#x20;
+
+At launch, each cohort for each category of assurance will require a minimum of 3 validators. This can be changed through [on-chain governance](https://docs.auditchain.finance/auditchain-protocol/governance).
 
 The number of AUDT minted for each validation by a cohort is set at launch and can be changed through [on-chain governance](https://docs.auditchain.finance/auditchain-protocol/governance).&#x20;
 
