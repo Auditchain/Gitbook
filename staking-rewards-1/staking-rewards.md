@@ -1,22 +1,24 @@
 ---
-description: Delegation of Stake for Early Validator Enrollment - PLEASE READ CAREFULLY
+description: >-
+  Game theoretical incentives for raising financial and operational integrity
+  and aligning external validation behavior.
 ---
 
 # Staking
 
-### Beta Launch - Early Enrollment - <mark style="color:red;">NOW CLOSED</mark>&#x20;
 
-This summary describes an overview of the functional objectives of the Pacioli Node staking contracts for validator early enrollment. This version is in Beta. Use at your own risk.
 
-You must have a Metamask wallet and be connected to Polygon mainnet.&#x20;
+### Validators
 
-Delegating AUDT as a validator in this contract means that you are staking AUDT in an early enrollment period. It is reserved for those who wish to be among the first to become Pacioli Node operators or back other accountants and non-accountants who will run the [Pacioli Logic Engine](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine) and node.js Pacioli Agent as a Pacioli Node operators on the Auditchain Protocol.&#x20;
+Validators may operate one or more Pacioli Nodes or delegate to Pacioli Node operators. Validators are required to stake a balance of AUDT in order to act as a validator on the Auditchain Protocol.
 
-The early enrollment period began on Monday 7 March, 2022 and it will end on 8 June, 2022 when the Pacioli Node infrastructure is deployed to Polygon mainnet. See [Terms and Conditions](staking-rewards.md#terms-and-conditions).
+### Process Control Creators
 
-### **Security Audit**
+Process Control creators must stake a balance of AUDT to act as a control creator on the Auditchain Protocol. Holders of AUDT may delegate to control creators and earn passive income each time controls are used.
 
-Check out our [Certik Skynet Dashboard](https://www.certik.com/projects/auditchain) and vote safe!&#x20;
+### Reporting Entities
+
+Reporting entities must stake a balance of AUDT to gain access to the [Luca Suite](https://docs.auditchain.finance/luca-suite/overview-of-luca-suite). See the diagrams and subtext below for a summary of the Auditchain Protocol architecture.
 
 ### Auditchain Protocol Infrastructure
 
@@ -26,7 +28,7 @@ Check out our [Certik Skynet Dashboard](https://www.certik.com/projects/auditcha
 
 The diagram below illustrates the infrastructure of the Auditchain Protocol. The actors on the left are validators. Validators own and delegate AUDT to Pacioli Node operators on the right. They earn rewards for "backing" Pacioli Node operators. Validators may also run Pacioli Nodes.
 
-Pacioli Node operators operate instances of the Pacioli Logic Engine on the Auditchain Protocol and validate financial reports and financial report models to detect inconsistencies. They also earn rewards for each validation and share the rewards with validators who delegate AUDT. See [Pacioli Logic and Rules Engine](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine).&#x20;
+Pacioli Node operators operate instances of the Pacioli Logic Engine on the Auditchain Protocol and validate Process Controls, financial reports and financial report models to detect inconsistencies. They also earn rewards for each validation and share the rewards with validators who delegate AUDT. See [Pacioli Logic and Rules Engine](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine).&#x20;
 
 </details>
 
@@ -38,7 +40,7 @@ Pacioli Node operators operate instances of the Pacioli Logic Engine on the Audi
 
 <summary>The Role of a Validator - Learn More</summary>
 
-A validator is an actor on the Auditchain Protocol who delegates AUDT to Pacioli Node operators. A validator may also act as a Pacioli Node operator. A validator can be anyone who holds AUDT in their wallet. Validators play a critical role in the incentive system for supporting and expanding the Auditchain Protocol infrastructure which is supported by Pacioli Node operators.
+A validator is an actor on the Auditchain Protocol who delegates AUDT to Pacioli Node operators. A validator may also act as a Pacioli Node operator and delegate to themself. A validator can be anyone who holds AUDT in their wallet. Validators play a critical role in the incentive system for supporting and expanding the Auditchain Protocol infrastructure which is supported by Pacioli Node operators.
 
 </details>
 
@@ -57,6 +59,22 @@ A Pacioli Node operator is an actor on the Auditchain Protocol who installs the 
 </details>
 
 ![Pacioli Node Operators](<../.gitbook/assets/Actors - NODE OPERATORS Gitbook.png>)
+
+###
+
+### Beta Launch - Early Enrollment - <mark style="color:red;">NOW CLOSED</mark>&#x20;
+
+This summary describes an overview of the functional objectives of the Pacioli Node staking contracts for validator early enrollment. This version is in Beta. Use at your own risk.
+
+You must have a Metamask wallet and be connected to Polygon mainnet.&#x20;
+
+Delegating AUDT as a validator in this contract means that you are staking AUDT in an early enrollment period. It is reserved for those who wish to be among the first to become Pacioli Node operators or back other accountants and non-accountants who will run the [Pacioli Logic Engine](https://docs.auditchain.finance/auditchain-protocol/pacioli-logic-and-rules-engine) and node.js Pacioli Agent as a Pacioli Node operators on the Auditchain Protocol.&#x20;
+
+The early enrollment period began on Monday 7 March, 2022 and it will end on 8 June, 2022 when the Pacioli Node infrastructure is deployed to Polygon mainnet. See [Terms and Conditions](staking-rewards.md#terms-and-conditions).
+
+### **Security Audit**
+
+Check out our [Certik Skynet Dashboard](https://www.certik.com/projects/auditchain) and vote safe!&#x20;
 
 ### Terms and Conditions
 
