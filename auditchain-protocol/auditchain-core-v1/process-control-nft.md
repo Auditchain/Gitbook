@@ -64,35 +64,41 @@ Process Control NFTs can be used to create and automate analysis processes for i
 
 ## Getting Started
 
-The Auditchain Protocol is initially equipped with an existing library of controls that automate financial reporting and financial report validation. These controls are based on the [XBRL Global Standard](https://www.xbrl.org/) Syntax. XBRL is the language and dialect of global regulators.&#x20;
+The Auditchain Protocol is initially equipped with an existing library of controls that automate financial reporting and financial report validation. These controls are based on the [XBRL Global Standard](https://www.xbrl.org/) Syntax. XBRL is the language and dialect of over 150 global regulators across 60 jurisdictions.&#x20;
 
-The UI will provide a few constraints to keep users on the right track based on the type of control a user is creating. If you can create a .xls formula, you can create a control. A drop down list of default control types is provided which then allows the user specify the attributes of the selected control type. Once the user has selected the control type and its attributes, the user will enter other URIs to associate other controls with the new control. The user will enter the description of the control and also enter its title.
+The Luca Suite is where process controls are created. You can learn more about the [Luca Suite here](https://docs.auditchain.finance/luca-suite/overview-of-luca-suite). The Luca Suite features constraints to prevent users from making mistakes or applying incorrect logic.
 
-Every accountant knows the accounting equation. Equity=Assets+Liabilities. This simple logic is the over arching control that governs other accounting controls.  &#x20;
+You can apply for and create an account on the private beta version of the [Luca Suite here](https://docs.auditchain.finance/luca-suite/getting-started).&#x20;
 
-Upon submission, Pacioli begins processing the output of the control in the form of one or more XML files containing all of the attributes of the control with a payload of the other URIs to other XML files that the control refers to in order to achieve the functional objective of the newly created control.&#x20;
+Control Element Categories are the artifacts used to create any type of financial reporting, audit or analysis control. You learn more about the [Control Element Categories here](https://docs.auditchain.finance/luca-suite/user-guide).&#x20;
+
+Every accountant and CFA knows the accounting equation. Equity=Assets+Liabilities. This simple logic is the over arching control that governs all other accounting controls.  &#x20;
+
+Upon submission, [Pacioli](https://docs.auditchain.finance/pacioli/pacioli-logic-and-rules-engine) begins processing the output of the control in the form of one or more XML files containing all of the attributes of the control with a payload of the other URIs to other XML files that the control refers to in order to achieve the functional objective of the newly created control.&#x20;
+
+All controls are immutably stored on IPFS with a unique identifier.&#x20;
 
 ### External Validation
 
 The newly created control is then submitted to the [cohort of external validators](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1/for-reporting-entities) running the AVM client; which we lovingly call "Pacioli" for validation under the [IASE 3402 engagement standard](https://www.ifac.org/system/files/downloads/b014-2010-iaasb-handbook-isae-3402.pdf). The control is processed by the external validators to verify that the control (i) works properly, (ii) does not conflict with or break other controls and (iii) complies with specified logical and functional objectives.
 
-When consensus of the cohort is reached that the control meets the conditions of the specified objectives, a validation is outputted and recorded by the EVC. The EVC triggers the settlement in AUDT and also enables the creator to claim the Process Control NFT.&#x20;
+When consensus of the cohort is reached that the control meets the conditions of the specified objectives, a validation is outputted and recorded by the [EVC](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1). The EVC triggers the settlement in AUDT and also enables the creator to claim the Process Control NFT.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click to Enlarge Image</p></figcaption></figure>
 
 ### Attributes of Process Control NFTs
 
-The NFT represents ownership of the control and points to an immutable URI on IPFS. The payload of the file linked by the URI contains the control and all other relative URIs as well as metadata that states; the creator's name and Ethereum address, name of each of the external validators and their Ethereum address, the EVC cohort address and the Merkle root which is the basis of the Proof of Assurance, "PoA". &#x20;
+The NFT represents ownership of the control and points to an immutable URI on IPFS. The payload of the file linked by the URI contains the control and all other relative URIs as well as metadata that states; the creator's name and Ethereum address, name of each of the external validators and their Ethereum address, the EVC cohort address and the Merkle root which is the basis of the Proof of Assurance, "PoA" for the control itself. &#x20;
 
-The magic of this process and the use of the NFT format allows creators and validators to get paid each time the control is used on the Auditchain Protocol. This incentivizes the creation of more controls which enables global disclosure frameworks to move from periodic, backward looking sprints to a continuous audit and near real time financial reporting framework that is suitable for open ledger based blockchain, DeFi systems and decentralized autonomous organizations.
+The magic of this process and the use of the NFT format allows creators and validators to get paid each time the control is used on the Auditchain Protocol. This incentivizes the creation of more controls which enables financial and operational state automation. It also forms the basis for global disclosure frameworks to move from periodic, backward looking sprints to a continuous audit and near real time financial reporting framework that is suitable for an open ledger based investment society.
 
 ### Knowledge Graphs
 
 Proof of Assurance "PoA" is a critical piece of the knowledge graph populated during the control creation process. The control creation process populates a knowledge graph that associates all of the attributes of the control and includes the attributes in the metadata section of the control. As the controls are consumed by other actors, the knowledge graphs become extremely useful. Actors can create additional controls (subgraphs) that become part of other knowledge graphs created by them that play a critical role in communicating accounting, audit, financial reporting and analysis logic and information in a machine-readable way.&#x20;
 
-The knowledge graph is also critical for reporting entities and auditors who are involved with financial statement audits in Europe which must include machine-readable data and logic as well as human readable rendering of financial statements under [CEAOB guidelines](https://ec.europa.eu/info/sites/default/files/business\_economy\_euro/banking\_and\_finance/documents/191128-ceaob-guidelines-auditors-involvement-financial-statements\_en.pdf).&#x20;
+The knowledge graph is also critical for reporting entities and auditors who are involved with financial statement audits in Europe which must include machine-readable data [prepared in the ESEF Format](https://www.esma.europa.eu/sites/default/files/library/esma32-60-254\_esef\_reporting\_manual.pdf) as well as human readable rendering of financial statements under new [CEAOB guidelines](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf).&#x20;
 
-Congratulations! You just performed [computational professional services](http://accounting.auditchain.finance/library/ComputationalProfessionalServices.pdf) that populated the AVM with a new consumable control which you now own! Every time that new control is used, you and each of the members of your EVC cohort who attested to the effectiveness of the control will receive AUDT as a royalty.&#x20;
+Congratulations! You are learning about [computational professional services](http://accounting.auditchain.finance/library/ComputationalProfessionalServices.pdf) that features  consumable controls which you now own! Every time that new control is used, you and each of the members of your EVC cohort who attested to the effectiveness of the control will receive AUDT as a royalty.&#x20;
 
 Do you REALLY want to perform manual accounting and analysis work for 10-12 hours a day for the rest of your career? Or do you want to come with us, get a life and change the world?  &#x20;
 
