@@ -28,7 +28,7 @@ A Process Control NFT is an immutable, transferrable digital representation of a
 
 The ERC721 standard began its initial use case for representing art. Its use is rapidly expanding to music, media, event ticketing, memberships and more.&#x20;
 
-Process Control NFTs represent the dawn of ERP, accounting and reporting infrastructure for the modern crypto centric enterprise. The Auditchain Protocol is a representation of the first use case for internal and external enterprise process automation, assurance and business intelligence infrastructure. We like to call them Lego Building Blocks for accounting, reporting, audit and analysis.
+Process Control NFTs represent the dawn of ERP, accounting and reporting infrastructure for the modern enterprise. The Auditchain Protocol is a representation of the first NFT use case for internal and external enterprise process automation, assurance and business intelligence infrastructure. We like to call them Lego Building Blocks for accounting, reporting, audit and analysis.
 
 Anyone can create a Process Control NFT so long as they have knowledge of these processes. Process Control NFTs are externally validated on the Auditchain Protocol. Every time they are used, the creator and the validators who validated them get paid a royalty. Neat, huh?
 
