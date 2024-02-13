@@ -1,5 +1,7 @@
 ---
-description: The Heart of the Engagement Process
+description: >-
+  The Heart of the Engagement Process for Financial Statement and Process
+  Control Validation
 ---
 
 # External Validation Core Contracts
