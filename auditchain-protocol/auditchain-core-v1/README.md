@@ -26,7 +26,7 @@ We would like to take this opportunity to apologize to all cypherpunks. All acto
 
 ### Submitting Evidence
 
-The cohort of external validators begins performing validations of each financial state transition of the economic entity. The output of a financial state transition produces a [Merkle](https://www.blockchain-council.org/blockchain/what-is-merkel-tree-merkel-root-in-blockchain/) root of all of the data, logic and controls of a series of knowledge graphs and subgraphs, otherwise known as the financial statements.&#x20;
+The cohort of external validators begins performing validations of each financial state transition of the economic entity. A state transition under most current regulatory disclosure frameworks usually happens once every quarter. The output of a financial state transition produces a [Merkle](https://www.blockchain-council.org/blockchain/what-is-merkel-tree-merkel-root-in-blockchain/) root of all of the data, logic and controls of a series of knowledge graphs and subgraphs, otherwise known as the financial statements.&#x20;
 
 Since a financial statement is a series of multi dimensional knowledge graphs and subgraphs, we often refer to them as [Logical Systems](http://accounting.auditchain.finance/framework/LogicalTheoryDescribingFinancialReport.pdf).&#x20;
 
