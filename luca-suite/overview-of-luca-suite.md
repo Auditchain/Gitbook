@@ -12,6 +12,7 @@ Luca is comprised of financial and operational disclosure automation infrastruct
 
 Luca enables the creation of:   &#x20;
 
+* Internal Controls over Financial Reporting
 * Machine-Readable Financial Reporting Models
 * Machine-Readable Financial Statements
 * Machine-Readable Reporting, Audit and Analysis [Process Controls](https://docs.auditchain.finance/auditchain-protocol/auditchain-core-v1/process-control-nft)&#x20;
