@@ -4,7 +4,7 @@ description: Financial and Operational Disclosure Automation Infrastructure
 
 # Overview of Luca Suite
 
-The Luca Suite is the basis for, and is the first implementation of the forthcoming specification of the [Standard Business Report Model](https://www.omg.org/intro/SBRM.pdf) "SBRM" at [Object Management Group](https://www.omg.org/) "OMG".&#x20;
+The Luca Suite is the basis for, and is the first implementation of the forthcoming [Standard Business Report Model](https://www.omg.org/intro/SBRM.pdf) "SBRM" specification at [Object Management Group](https://www.omg.org/) "OMG".&#x20;
 
 SBRM is a bi-directional, structured data agnostic interchange specification developed by Auditchain Labs AG and supported by a wide variety of other OMG member organizations.
 
