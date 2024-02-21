@@ -8,7 +8,9 @@ The Luca Suite is the basis for, and is the first implementation of the forthcom
 
 SBRM is a bi-directional, structured data agnostic interchange specification developed by Auditchain Labs AG and supported by a wide variety of other OMG member organizations.
 
-Luca is comprised of financial and operational disclosure automation infrastructure that uses XBRL based logical constraints to achieve accurate, truthful and compliant structured financial disclosure development.
+Luca is comprised of financial and operational disclosure automation infrastructure that is suitable for issuers of digital assets.&#x20;
+
+The Luca Suite features logical constraints to achieve accurate, truthful and compliant structured financial disclosure development.
 
 Luca enables the creation of:   &#x20;
 
