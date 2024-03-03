@@ -1,8 +1,8 @@
 ---
 description: >-
   Resources for understanding, implementing and automating modern accounting,
-  reporting, auditing, and analysis tasks and processes in a decentralized
-  environment.
+  reporting, auditing, and analysis model assemblies and processes in a
+  decentralized environment.
 ---
 
 # Knowledge Base
@@ -11,7 +11,7 @@ description: >-
 
 This knowledge base is under constant upgrades and improvements. It is the evolution of many years of study and practice.&#x20;
 
-The Auditchain Protocol is a decentralized version of proven methods and applications for the computation and articulation of changes in state for economic entities.&#x20;
+The Auditchain Protocol is a decentralized version of proven methods and applications using global standards for the computation and articulation of changes in state for economic entities.&#x20;
 
 You are free to use any of the controls in the financial reporting schemes below as they are open source. We make no representation on the functional objective of these controls and give no warranties.
 
@@ -19,7 +19,7 @@ You are free to use any of the controls in the financial reporting schemes below
 
 ### Theory, Framework, Method, Principles
 
-What is conspicuously lacking in most people's mind is a broad framework let alone a theory on how to think about digital financial reports. We provide that framework and theory.
+What is conspicuously lacking in most people's mind is a broad framework let alone a theory on how to think about digital financial reporting. We provide that framework and theory.
 
 * [Logical Theory Describing Financial Report](http://accounting.auditchain.finance/framework/LogicalTheoryDescribingFinancialReport.pdf)
 * [Framework](http://accounting.auditchain.finance/framework/OpenSourceFramework.pdf)
@@ -29,7 +29,7 @@ What is conspicuously lacking in most people's mind is a broad framework let alo
 
 ### Technical Implementation Details
 
-Important technical details used to implement XBRL-based digital financial reporting using theory, framework, method, and principles.
+The following are technical details used to implement XBRL-based digital financial reporting using theory, framework, method, and principles.
 
 * [Conceptual Model](http://accounting.auditchain.finance/cm/index.html)
 * [Standard Business Report Model (SBRM)](http://accounting.auditchain.finance/sbrm/index.html) | [Universal Digital Financial Reporting Framework](http://accounting.auditchain.finance/udfrf/index.html)
@@ -38,7 +38,7 @@ Important technical details used to implement XBRL-based digital financial repor
 
 ### Financial Reporting Schemes
 
-Human-readable and machine-readable financial [reporting schemes](http://accounting.auditchain.finance/reporting-scheme/index.html) implemented using the good practices method. This machine readable metadata will be used to supercharge rules-based artificial intelligence software applications for creating financial reports.
+Human-readable and machine-readable financial [reporting schemes](http://accounting.auditchain.finance/reporting-scheme/index.html) are implemented using the good practices method. This machine readable metadata is used within the Luca Suite and the Pacioli logic and Reasoning Engine to constrain rules-based artificial intelligence for articulating financial and operational state.
 
 * [Proof Baseline Reporting Scheme](http://accounting.auditchain.finance/reporting-scheme/proof/documentation/Index.html)
 * [MINI Financial Reporting Scheme](http://accounting.auditchain.finance/reporting-scheme/mini/documentation/Index.html)
