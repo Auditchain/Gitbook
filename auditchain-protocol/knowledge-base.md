@@ -38,7 +38,7 @@ The following are technical details used to implement XBRL-based digital financi
 
 ### Financial Reporting Schemes
 
-Human-readable and machine-readable financial [reporting schemes](http://accounting.auditchain.finance/reporting-scheme/index.html) are implemented using the good practices method. This machine readable metadata is used within the Luca Suite and the Pacioli logic and Reasoning Engine to constrain rules-based artificial intelligence for articulating financial and operational state.
+Human-readable and machine-readable financial [reporting schemes](http://accounting.auditchain.finance/reporting-scheme/index.html) are implemented using the good practices method. This machine readable metadata is used within the [Luca Suite](https://docs.auditchain.finance/luca-suite/overview-of-luca-suite) and the [Pacioli logic and Reasoning Engine](https://docs.auditchain.finance/pacioli/pacioli-logic-and-rules-engine) to constrain rules-based artificial intelligence for articulating financial and operational state.
 
 * [Proof Baseline Reporting Scheme](http://accounting.auditchain.finance/reporting-scheme/proof/documentation/Index.html)
 * [MINI Financial Reporting Scheme](http://accounting.auditchain.finance/reporting-scheme/mini/documentation/Index.html)
