@@ -20,7 +20,7 @@ The [ISAE 3402](https://www.ifac.org/\_flysystem/azure-private/publications/file
 
 The Committee of European Auditing Oversight Bodies "CEAOB" adopted [guidance](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf) in November of 2021 on the auditor's involvement on financial statements in the European Single Electronic Format "ESEF".&#x20;
 
-The [CEAOB Guidance](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf) requires auditors in the 27 member states of the EU to include the machine readable financial statement instance within the scope of an audit engagement agreement.
+The [CEAOB Guidance](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf) requires auditors in the 27 member states of the EU to include the machine readable financial statement instance in the [ESEF format](https://www.esma.europa.eu/issuer-disclosure/electronic-reporting) within the scope of an audit engagement agreement.
 
 The EVC and the use by the auditor of the Pacioli Logic and reasoning engine is designed to fulfil the auditor's responsibilities to comply with this guidance when auditing financial statements of economic entities in the EU.
 

@@ -20,7 +20,7 @@
 
 ## Pacioli&#x20;
 
-* [Pacioli Logic and Rules Engine](auditchain-protocol/pacioli-logic-and-rules-engine.md)
+* [Pacioli AI Logic and Rules Engine](pacioli/pacioli-ai-logic-and-rules-engine.md)
 
 ## Security Audit
 
