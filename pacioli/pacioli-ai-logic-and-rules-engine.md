@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Pacioli Logic and Rules Engine
+# Pacioli AI Logic and Rules Engine
 
 ### **Pacioli Infrastructure**
 
@@ -42,7 +42,7 @@ Compliance with each internal and disclosure control is color coded for easy ide
 
 <figure><img src="../.gitbook/assets/State Condition.png" alt=""><figcaption></figcaption></figure>
 
-### Pacioli Agent - Web3 Enabled&#x20;
+### Pacioli AI Agent - Web3 Enabled&#x20;
 
 Pacioli can be deployed to perform tasks that are consistent with [CEAOB](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf) guidance for auditors in the European Union and as a Web3 tool to validate the articulation of the financial state of an operating entity or financial intermediary in machine-readable form, based on their financial reporting style within a financial reporting scheme.
 
