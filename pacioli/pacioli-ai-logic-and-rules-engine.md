@@ -22,11 +22,11 @@ layout:
 
 # Pacioli AI Logic and Rules Engine
 
-### **Pacioli Infrastructure**
+### **Pacioli AI Infrastructure**
 
-Pacioli is the heart of the Auditchain Protocol infrastructure for artificial intelligence (AI) based financial and operational state external validation and information extraction. Pacioli is built on [SWI PROLOG](https://www.swi-prolog.org/), a proven standard and robust logic programming engine. &#x20;
+Pacioli is the heart of the Auditchain Protocol infrastructure for artificial intelligence (AI) based financial and operational state external validation and information extraction. Pacioli is built with [SWI PROLOG](https://www.swi-prolog.org/), a proven standard and robust logic programming engine. &#x20;
 
-Pacioli is a logic and rules engine and toolkit that is purpose built and understands global standard XBRL-based reporting scheme taxonomies, digital financial report models and financial reports.  Both API and GUI interfaces are available for Pacioli.  One GUI implementation available is an XBRL-based financial report verification toolkit, see [**Pacioli Power User Tool**](https://pacioli.auditchain.finance/tools/PowerUserTool.swinb)
+Pacioli is a declarative artificial intelligence-based logic and reasoning engine that reads, understands, and detects inconsistencies in machine-readable financial statements prepared in accordance with International Financial Reporting Standards, United States Generally Accepted Accounting Principles, and other standardized financial reporting schemes. Pacioli is purpose built and understands global standard XBRL-based reporting scheme taxonomies, digital financial report models and financial reports.  Both API and GUI interfaces are available for Pacioli.  A demo is available as an XBRL-based financial report verification toolkit, see [**Pacioli Power User Tool**](https://pacioli.auditchain.finance/tools/PowerUserTool.swinb)
 
 ### Real World Use Case
 
@@ -52,7 +52,7 @@ The Pacioli Agent also governs how consensus is reached by Pacioli node operator
 
 ### Logic Based
 
-Pacioli is a Web3 logic and rules-based artificial intelligence software application.  Pacioli uses machine-readable controls and deductive reasoning to determine if internal controls are in compliance and if an XBRL-based financial report is a properly functioning logical system.  The following is a brief overview of the logic currently understood by the Pacioli software application which gives you an idea of the current capabilities of Pacioli:
+Pacioli uses machine-readable controls and deductive reasoning to determine if internal controls are in compliance and if an XBRL-based financial report is a properly functioning logical system.  The following is a brief overview of the logic currently understood by the Pacioli software application which gives you an idea of the current capabilities of Pacioli:
 
 * **XBRL Syntax**: First you have to be sure that the technical format used to deliver the meaning conveyed follows the prescribed technical specification, in our case the XBRL technical syntax.
 * **Report Model Structure**: The report model created by the accountants representing a financial report needs to follow a prescribed logical structure for such report models.  XBRL does not specify these rules.  But good practices and logic does specify what is and is not permitted and Pacioli enforces these good practices.
