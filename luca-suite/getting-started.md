@@ -31,7 +31,7 @@ You can login to Auditchain Suite using Web2 methods such as Google and Web3 met
 
 
 
-### STEP 4 - Login to the Auditchain Suite
+### STEP 4 - Login to the Luca Suite
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,51 +55,49 @@ You will be taken to the main dashboard of Luca which contains a list of reports
 
 ### STEP 7 - Create a report
 
-Press the green “+” button in the top menu and you will be prompted to add a new report. Type in the name of the report you would like to create such as “My First Report” into the Report name text box. Then press the “Create a report” button.
+Press the green “+” button in the top menu and you will be prompted to add a new report. Type in the name of the report you would like to create such as “MiCA White Paper” into the Report name text box. Then press the “Create a report” button.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### STEP 8 - Create report by importing Excel or JSON file(s)
+### STEP 8 - Create report by loading an existing template.
 
 There are many approaches that can be used to create a report. Automation occurs via API. You can manually enter information or import information from a reporting scheme template.
 
-In this case, we will import from Excel or JSON. To do this you need to download [THIS ZIP FILE](https://drive.google.com/file/d/1X82UddUcmE6Y\_meOAg\_bO9guU4Yj9DV9/view?usp=drive\_link) which contains two files: Excel and JSON:
+In this case, we will choose an existing template or "model".
 
-Unzip the ZIP archive to make the files available locally on your computer. Decide if you want to use the Excel or JSON version of the import file.
+Select “Create report by loading template from financial reporting scheme library and clock "Start Now".
 
-Select “Create report by importing Excel or JSON file(s) and then press the blue “GO” button:
-
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### STEP 9 - Select the Excel or JSON file you want to import
 
-Select the Excel file or JSON file from your computer. (Note that you need to extract the files from the ZIP FILE you downloaded.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+### STEP 9 - Select the MiCA Prototype
+
+Select the MiCA Prototype and click next.
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### STEP 10 - Import
 
-After you select the file, you want to import, the following form will be displayed which shows you the information contained in that file which has been converted to JSON. Press the “Send data” button to import the information contained in the import file you selected.
+Select each of the elements you need in the list of elements on the right. Depending on what type of crypto asset you white paper describes, you will choose the elements in one of the Annexes. In this case we choose elements in Annex I which is used for a utility token. Then click next.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+### STEP 11 - You are ready to compose your white paper.
 
+You can now use each of the elements on the right to compose the relevant information.&#x20;
 
-### STEP 11 - View the imported report information
-
-After the information from the import file has been loaded into Auditchain Luca, press the button outlined in RED below on the right side to expand the tree of report structures. Press “Balance Sheet \[Hypercube]” and what you see should match what you see below:
-
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### STEP 12 - Validate Report
+### STEP 12 - Validate&#x20;
 
 Press the “Validate” button in the upper RIGHT-hand corner and select “Local Validation”. When the report validation is complete you will see the following:
 
@@ -107,11 +105,22 @@ Press the “Validate” button in the upper RIGHT-hand corner and select “Loc
 
 
 
-### STEP 13 - EXPLORE!
+### STEP 13 - Print to iXBRL. Its that simple!
 
-The next step is to explore Luca. At this juncture, try clicking on the tabs at the top center of the form you see or the blue “Generate” button on the right.&#x20;
+When you have completed and validated your white paper, click the blue "Generate" button on the top right and choose iXBRL.&#x20;
 
-You will want to explore the legend at the bottom right corner of the application and get familiar with the report model component categories. The [User Guide](https://docs.auditchain.finance/luca-suite/user-guide) explains each of the those components and give a use case example.&#x20;
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+### STEP 14 - Enter the information required in the dialogue box.
 
+A dialogue box will pop up after you click generate>iXBRL. Enter the information required in each of the data fields then choose the style sheet and click "Publish".&#x20;
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+### YOU ARE LIVE! - Here is a sample of a beautiful high quality machine readable white paper!
+
+[**CLICK HERE**](https://dev.auditchain.finance/storage/d86235dd-9c07-4e73-bb3a-77cec2ee6e5c/ba2803aa/ixbrl-report-viewer.html)
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://dev.auditchain.finance/storage/d86235dd-9c07-4e73-bb3a-77cec2ee6e5c/ba2803aa/ixbrl-report-viewer.html" %}
