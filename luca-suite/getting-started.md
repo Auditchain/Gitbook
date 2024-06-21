@@ -53,7 +53,7 @@ You will be taken to the main dashboard of Luca which contains a list of reports
 
 
 
-### STEP 7 - Create a report
+### STEP 7 - Create a white paper
 
 Press the green “+” button in the top menu and you will be prompted to add a new report. Type in the name of the report you would like to create such as “MiCA White Paper” into the Report name text box. Then press the “Create a report” button.
 
@@ -61,9 +61,9 @@ Press the green “+” button in the top menu and you will be prompted to add a
 
 
 
-### STEP 8 - Create report by loading an existing template.
+### STEP 8 - Create the white paper by loading an existing template.
 
-There are many approaches that can be used to create a report. Automation occurs via API. You can manually enter information or import information from a reporting scheme template.
+There are many approaches that can be used to create a white paper or a report. Automation occurs via API. You can manually enter information or import information from a reporting scheme template.
 
 In this case, we will choose an existing template or "model".
 
@@ -83,15 +83,15 @@ Select the MiCA Prototype and click next.
 
 
 
-### STEP 10 - Import
+### STEP 10 - Import and select
 
-Select each of the elements you need in the list of elements on the right. Depending on what type of crypto asset you white paper describes, you will choose the elements in one of the Annexes. In this case we choose elements in Annex I which is used for a utility token. Then click next.
+Select each of the elements you need in the list of elements on the right. Depending on what type of crypto asset your white paper describes, you will choose the elements in one of the Annexes. Annex I is used for crypto assets other than Asset Referenced Tokens or E-Money Tokens. In this case we choose elements in Annex I which is used for a utility token. Then click next.
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 11 - You are ready to compose your white paper.
 
-You can now use each of the elements on the right to compose the relevant information.&#x20;
+You can now use each of the elements on the right to compose the relevant information. Be sure to save your work before moving on to the next element.&#x20;
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
@@ -99,7 +99,7 @@ You can now use each of the elements on the right to compose the relevant inform
 
 ### STEP 12 - Validate&#x20;
 
-Press the “Validate” button in the upper RIGHT-hand corner and select “Local Validation”. When the report validation is complete you will see the following:
+Press the “Validate” button in the upper right-hand corner and select “Local Validation”. This is useful for internal audit functions to verify compliance internally. When the report validation is complete you will see the following:
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
