@@ -40,7 +40,7 @@ Some of the benefits of a model based approach include:
 
 All the complexity inherent in structured financial data disclosure is under the hood in a similar way that website content management systems use HTML and CSS constraints under the hood to automate site development so you don't have to be a developer.&#x20;
 
-You do not need to be a structured data expert or a developer to originate pristine, accurate and compliant financial and operational state disclosure instances.&#x20;
+You do not need to be a structured data expert or a developer to create beautiful high quality machine-readable crypto asset white papers or accurate and compliant financial and operational disclosures.&#x20;
 
 Using the Luca Suite means that CFAs can now extract and aggregate accurate and consistent financial statement data that has rich meaning and context.&#x20;
 
