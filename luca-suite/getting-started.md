@@ -33,7 +33,7 @@ You can login to Auditchain Suite using Web2 methods such as Google and Web3 met
 
 ### STEP 4 - Login to the Luca Suite
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 
 
