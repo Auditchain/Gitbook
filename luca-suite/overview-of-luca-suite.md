@@ -6,7 +6,7 @@ description: Financial and Operational Disclosure Automation Infrastructure
 
 The Luca Suite is the basis for, and is the first implementation of the forthcoming [Standard Business Report Model](https://www.omg.org/intro/SBRM.pdf) "SBRM" specification at [Object Management Group](https://www.omg.org/) "OMG".&#x20;
 
-SBRM is a bi-directional, structured data agnostic interchange specification developed by Auditchain Labs AG and supported by a wide variety of other OMG member organizations.
+[SBRM](https://www.omg.org/insights/how-sbrm-enables-digital-asset-white-paper-compliance-under-the-eu-mica-regulations/) is a bi-directional, structured data agnostic interchange specification developed by Auditchain Labs AG and supported by a wide variety of other OMG member organizations.
 
 Luca is comprised of financial and operational disclosure automation infrastructure that is suitable for issuers of digital assets.&#x20;
 
@@ -14,6 +14,7 @@ The Luca Suite features logical constraints to achieve accurate, truthful and co
 
 Luca enables the creation of:   &#x20;
 
+* Machine-Readable Crypto Asset White Papers
 * Internal Controls over Financial Reporting
 * Machine-Readable Financial Reporting Models
 * Machine-Readable Financial Statements
