@@ -17,6 +17,8 @@
 * [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
 * [Getting Started](luca-suite/getting-started.md)
 * [User Guide](luca-suite/description-of-report-element-categories.md)
+* [API Documentaiton](luca-suite/api-documentaiton/README.md)
+  * [API Documentation](https://luca.pacioli.ai/api/documentation/)
 
 ## Pacioli&#x20;
 
