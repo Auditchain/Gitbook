@@ -3,7 +3,6 @@
 ## Auditchain Protocol
 
 * [Introduction](README.md)
-* [Auditchain V1 Whitepaper](https://auditchain.finance/whitepaper-v1.pdf)
 * [External Validation Core Contracts](auditchain-protocol/auditchain-core-v1/README.md)
 * [Financial State Validation](auditchain-protocol/auditchain-core-v1/for-reporting-entities.md)
 * [Process Control NFTs](auditchain-protocol/auditchain-core-v1/process-control-nft.md)
