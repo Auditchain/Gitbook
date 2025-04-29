@@ -9,9 +9,9 @@ description: >-
 
 
 
-### STEP 1 - Go to the private beta site
+### STEP 1 - Go to:
 
-[https://dev.auditchain.finance/ ](https://dev.auditchain.finance/)
+[https://dev.pacioli.ai](https://dev.pacioli.ai)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
