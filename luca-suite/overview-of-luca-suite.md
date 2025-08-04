@@ -23,7 +23,7 @@ Luca Suite enables the creation of:   &#x20;
 
 ## Model Based Automation
 
-Financial and operational disclosure is a time consuming manual process. Luca enables the assembly of knowledge and logic based financial reporting models that are re-used for automating financial disclosure every reporting period.
+Financial and operational disclosure is a time consuming manual process. Luca Suite enables the assembly of knowledge and logic based financial reporting models that are re-used for automating financial disclosure every reporting period.
 
 Model based assembly automatically picks terms and definitions from USGAAP, IFRS and most other reporting scheme taxonomies. Model assembly constrains financial report logic, data and structure. Tagging is automated and accurate which eliminates inconsistencies that are common in most structured disclosure development.&#x20;
 
