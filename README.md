@@ -16,17 +16,17 @@ The project is designed to raise the integrity and reliability of disclosure inf
 
 So how do we do this? Through incentives for creators of disclosure models and disclosure controls as well as validators who verify that the models and controls work correctly.&#x20;
 
-As the platform becomes more more adopted, it becomes the basis of an automated virtual machine for disclosure, audit and analysis.&#x20;
+As the platform becomes more more adopted, it becomes the basis of an automated "operating system" for disclosure and analysis.&#x20;
 
 As the world's assets become tokenized, accounting, disclosure, audit and analysis must undergo a radical transformation.&#x20;
 
-As the world's accountants and professionals contribute models and controls, processes become more refined and disclosure becomes more reliable. The more precise the logic becomes, the more they can be used to predict and estimate future outcomes on a micro and macroeconomic level. &#x20;
+As the world's accountants and professionals contribute models and controls, processes become more refined and disclosure becomes more reliable. The more precise the logic and data becomes, the more artificial intelligence can predict and estimate future outcomes on a micro and macroeconomic level. &#x20;
 
-Sounds cool right? Its gets better. Instead of performing manual labor for hourly fees, the professional services community can build a portfolio of models and controls that earn revenue every year.&#x20;
+Sounds cool right? Its gets better. Instead of performing manual labor for hourly fees, the professional services community can build a portfolio of models and controls that earn revenue.
 
 Ok NOW professional services just became the sexiest profession on the planet!
 
-Regulatory disclosure are complicated subject matters and are sometimes difficult to articulate. We are working really hard to make it fun. Wherever and whenever we can, we will attempt speak plain English when discussing these matters.&#x20;
+Finance and law are complicated subject matters and are sometimes difficult to articulate. We are working really hard to make it fun. Wherever and whenever we can, we will attempt speak plain English when discussing these matters.&#x20;
 
 We also hope to add a sense of humor as well as a sense of humanity. Please be sure to join our [Discord](https://discord.gg/JbpFqKM3EM) server. We will stage periodic live discussions on the project and also the usual crypto banter.
 
