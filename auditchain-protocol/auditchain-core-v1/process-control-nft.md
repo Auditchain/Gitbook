@@ -4,20 +4,6 @@ description: >-
   Moving the Institution of Accountancy Toward Automation
 cover: ../../.gitbook/assets/auditchain-launches-staking-contracts.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Process Control NFTs
@@ -96,7 +82,7 @@ The magic of this process and the use of the NFT format allows creators and vali
 
 Proof of Assurance "PoA" is a critical piece of the knowledge graph populated during the control creation process. The control creation process populates a knowledge graph that associates all of the attributes of the control and includes the attributes in the metadata section of the control. As the controls are consumed by other actors, the knowledge graphs become extremely useful. Actors can create additional controls (subgraphs) that become part of other knowledge graphs created by them that play a critical role in communicating accounting, audit, financial reporting and analysis logic and information in a machine-readable way.&#x20;
 
-The knowledge graph is also critical for reporting entities and auditors who are involved with financial statement audits in Europe which must include machine-readable data [prepared in the ESEF Format](https://www.esma.europa.eu/sites/default/files/library/esma32-60-254\_esef\_reporting\_manual.pdf) as well as human readable rendering of financial statements under new [CEAOB guidelines](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf).&#x20;
+The knowledge graph is also critical for reporting entities and auditors who are involved with financial statement audits in Europe which must include machine-readable data [prepared in the ESEF Format](https://www.esma.europa.eu/sites/default/files/library/esma32-60-254_esef_reporting_manual.pdf) as well as human readable rendering of financial statements under new [CEAOB guidelines](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors_en.pdf).&#x20;
 
 Congratulations! You are learning about [computational professional services](http://accounting.auditchain.finance/library/ComputationalProfessionalServices.pdf) that features  consumable controls which you now own! Every time that new control is used, you and each of the members of your EVC cohort who attested to the effectiveness of the control will receive AUDT as a royalty.&#x20;
 

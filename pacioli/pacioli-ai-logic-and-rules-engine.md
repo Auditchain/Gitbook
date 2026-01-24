@@ -4,20 +4,6 @@ description: >-
   external validation.
 cover: ../.gitbook/assets/Pacioli Nodes.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Pacioli AI Logic and Rules Engine
@@ -44,7 +30,7 @@ Compliance with each internal and disclosure control is color coded for easy ide
 
 ### Pacioli AI Agent - Web3 Enabled&#x20;
 
-Pacioli can be deployed to perform tasks that are consistent with [CEAOB](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors\_en.pdf) guidance for auditors in the European Union and as a Web3 tool to validate the articulation of the financial state of an operating entity or financial intermediary in machine-readable form, based on their financial reporting style within a financial reporting scheme.
+Pacioli can be deployed to perform tasks that are consistent with [CEAOB](https://commission.europa.eu/system/files/2021-11/211109-ceaob-esef-guidelines-auditors_en.pdf) guidance for auditors in the European Union and as a Web3 tool to validate the articulation of the financial state of an operating entity or financial intermediary in machine-readable form, based on their financial reporting style within a financial reporting scheme.
 
 The Pacioli Agent is a node.js application integrated with the Pacioli logic engine. Running a Pacioli Node on the Auditchain Protocol requires the Pacioli Agent which is included in a Docker image. The Pacioli Agent uses an algorithm designed to detect financial state validation requests from users on the Auditchain Protocol. Upon detection, the Pacioli Agent initiates a race to compete to fulfill validation service requests on the Auditchain Protocol.&#x20;
 
