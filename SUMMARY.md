@@ -15,10 +15,10 @@
 
 * [Overview of Luca Suite](luca-suite/overview-of-luca-suite.md)
 * [Getting Started](luca-suite/getting-started.md)
+* [Collaboration](luca-suite/collaboration.md)
 * [User Guide](luca-suite/description-of-report-element-categories.md)
 * [API Documentaiton](luca-suite/api-documentaiton/README.md)
   * [API Documentation](https://luca.pacioli.ai/api/documentation/)
-* [Collaborate](luca-suite/collaborate.md)
 
 ## Pacioli&#x20;
 

@@ -2,9 +2,9 @@
 description: Add teams to your workflow
 ---
 
-# Collaborate
+# Collaboration
 
-Now you can work with legal counsel, accounting, engineering and your ESG teams on the same disclosure model and each disclosure.&#x20;
+Now you can share and work with legal counsel, accounting, engineering and your ESG teams on the same disclosure model and each disclosure.&#x20;
 
 The collaborative features revolutionize compliance processes by enabling real-time multi-user editing, automated version tracking, and integrated feedback loops.&#x20;
 
