@@ -11,9 +11,11 @@ description: >-
 
 This knowledge base is under constant upgrades and improvements. It is the evolution of many years of study and practice.&#x20;
 
-The Auditchain Protocol is a decentralized version of proven methods and applications using global standards for the computation and articulation of changes in state for economic entities.&#x20;
+Pacioli.ai is a decentralized version of proven methods and applications using global standards for the computation and articulation of changes in state for economic entities.&#x20;
 
 You are free to use any of the controls in the financial reporting schemes below as they are open source. We make no representation on the functional objective of these controls and give no warranties.
+
+
 
 ## Accounting, Reporting, Auditing, and Analysis in a Digital Environment
 
